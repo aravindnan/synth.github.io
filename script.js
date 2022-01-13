@@ -79,7 +79,7 @@ function sound(e){
   userStartAudio();
   
   switch(ch){
-      case '1':note="D3";break;
+      case '1':note="E4";break;
       case '2':note="A5";break;
       case '3':note="D6";break;
       case '4':note="B4";break;
